@@ -1,0 +1,32 @@
+/**
+  DO NOT EDIT
+  FILE auto-generated
+  Module name:
+    AutoGen.h
+  Abstract:       Auto-generated AutoGen.h for building module or library.
+**/
+
+#ifndef _AUTOGENH_1DE0B8C2_FFB6_4bdf_97F5_0FFB33979038
+#define _AUTOGENH_1DE0B8C2_FFB6_4bdf_97F5_0FFB33979038
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#include <Base.h>
+
+extern GUID  gEfiCallerIdGuid;
+extern GUID  gEdkiiDscPlatformGuid;
+extern CHAR8 *gEfiCallerBaseName;
+
+#define STACK_COOKIE_VALUE 0x97AF59AC6314D49BULL
+
+// Definition of SkuId Array
+extern UINT64 _gPcd_SkuId_Array[];
+
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

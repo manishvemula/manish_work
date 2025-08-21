@@ -1,0 +1,13 @@
+-I/home/cdac/fw/edk2-ws/edk2/OvmfPkg/Library/CcExitLib/X64
+-I/home/cdac/fw/edk2-ws/edk2/OvmfPkg/Library/CcExitLib
+-I/home/cdac/fw/edk2-ws/Build/OvmfX64/DEBUG_GCC5/X64/OvmfPkg/Library/CcExitLib/CcExitLib/DEBUG
+-I/home/cdac/fw/edk2-ws/edk2/MdePkg
+-I/home/cdac/fw/edk2-ws/edk2/MdePkg/Include
+-I/home/cdac/fw/edk2-ws/edk2/MdePkg/Test/UnitTest/Include
+-I/home/cdac/fw/edk2-ws/edk2/MdePkg/Test/Mock/Include
+-I/home/cdac/fw/edk2-ws/edk2/MdePkg/Library/MipiSysTLib/mipisyst/library/include
+-I/home/cdac/fw/edk2-ws/edk2/MdePkg/Include/X64
+-I/home/cdac/fw/edk2-ws/edk2/OvmfPkg
+-I/home/cdac/fw/edk2-ws/edk2/OvmfPkg/Include
+-I/home/cdac/fw/edk2-ws/edk2/UefiCpuPkg
+-I/home/cdac/fw/edk2-ws/edk2/UefiCpuPkg/Include
